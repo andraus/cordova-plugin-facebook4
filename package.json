@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-facebook4",
+  "name": "cordova-plugin-facebook4-urlscheme",
   "version": "1.9.1",
-  "description": "Cordova Facebook SDK 4 Plugin",
+  "description": "Cordova Facebook SDK 4 Plugin with iOS URL Scheme",
   "cordova": {
-    "id": "cordova-plugin-facebook4",
+    "id": "cordova-plugin-facebook4-urlsceme",
     "platforms": [
       "android",
       "ios",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeduan/cordova-plugin-facebook4"
+    "url": "https://github.com/andraus/cordova-plugin-facebook4"
   },
   "keywords": [
     "cordova",
